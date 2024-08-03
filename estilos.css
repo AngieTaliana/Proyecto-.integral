@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 45px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(0, 0, 0);
@@ -13,7 +13,9 @@
 }
 body{
     background-image: url("fondos\,jpg.jpg");
-    background-repeat: no-repeat;
+    height: 2000px;
+    background-repeat: repeat
+    
 
 }
 
@@ -40,7 +42,14 @@ body{
 
 .cortocircuitoo{
     height: 300px;
-    width: 900px;
+    width: 408px;
     background-image: url("cortocircuitoo.webp");
+
+}
+
+.circuitoparalelo{
+    height: 422px;
+    width: 740px;
+    background-image: url("circuitoparalelo.png");
 
 }
