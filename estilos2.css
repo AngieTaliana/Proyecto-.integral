@@ -1,0 +1,85 @@
+/* Temas del tercer período*/
+
+.texto{
+   
+    font-size: 45px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondos\,jpg.jpg");
+    height: 2000px;
+    background-repeat: repeat
+    
+
+}
+
+.titulo{
+
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.funciones{
+    height: 300px;
+    width: 408px;
+    background-image: url("funciones.png");
+
+}
+
+.funcionesbasicas{
+    height: 300px;
+    width: 408px;
+    background-image: url("Funcionesbasicas.jpg");
+
+}
+
+.function{
+    height: 200px;
+    width: 100px;
+    background-image: url("Function.jpg");
+
+}
+
+.logo{
+    height: 800px;
+    width: 900px;
+    background-image: url("logo.jpg");
+
+}
+
+.trabaj{
+    height: 200px;
+    width: 100px;
+    background-image: url("trabaj.jpg");
+
+}
+
+.basquebol{
+    height: 200px;
+    width: 100px;
+    background-image: url("basquebol.jpg");
+
+}
+
+
+.avion1{
+    height: 300px;
+    width: 408px;
+    background-image: url("avion1.n.jpg");
+
+}
+
+.avion2{
+    height: 300px;
+    width: 408px;
+    background-image: url("avion2.jpg");
+
+}
